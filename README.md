@@ -1,1 +1,2 @@
-working with shell
+#!/bin/bash
+non empty readme
